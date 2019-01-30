@@ -1,2 +1,2 @@
-# ShinyProje
+# ShinyProj
 Final Assignment
